@@ -32,36 +32,36 @@
   </ul>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="" alt="Los Angeles" width="300" height="100">
+      <img src="https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/8bd81405-bbe2-4516-aecb-665e22981785/blazer-low-77-jumbo-shoes-gRBtmC.png" alt="Los Angeles" width="300" height="100">
       <div class="carousel-caption">
         <h3></h3>
       </div>
-    <p class="text-success ">A Ma Maniere x Nike Air Jordan 3</p>
+    <p class="text-success ">Nike Blazer</p>
 <br>
     </div>
     <div class="carousel-item">
-      <img src="" alt="Chicago" width="300" height="100">
+      <img src="https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/751775da-9cbe-4a20-bfaf-b400fec7c464/metcon-7-flyease-training-shoes-rvxbdG.png" alt="Chicago" width="300" height="100">
       <div class="carousel-caption">
         <h3></h3>
       </div> 
-   <p class="text-success "  >COMME des GARÇONS x Nike Air Foamposite</p>
+   <p class="text-success "  >Nike Metcon</p>
 
       <br>  
     </div>
     <div class="carousel-item">
-      <img src="" alt="New York" width="300" height="100">
+      <img src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/erzfadfpnzgkxt0gn2ya/air-max-plus-shoe-nnTrAZe0.png" alt="New York" width="300" height="100">
       <div class="carousel-caption">
         <h3></h3>
       </div> 
-               <p class="text-success "  >Patta x Nike Air Max 1</p>
+               <p class="text-success "  > Nike Air Max Plus</p>
       <br> 
     </div>
   </div>
   <a class="carousel-control-prev" href="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
+    <span class="carousel-control-prev-icon">Prev</span>
   </a>
   <a class="carousel-control-next" href="#demo" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
+    <span class="carousel-control-next-icon">Next</span>
   </a>
 </div>
 
