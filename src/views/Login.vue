@@ -57,7 +57,7 @@ export default {
         .then(async(json) => {
           if(json.accessToken){
             console.log(json.accessToken)
-            alert("Tutor logged in");
+            alert("User logged in");
              this.$router.push({ name: "Products" });
             return await localStorage.setItem("jwt", json.accessToken);
           }else
